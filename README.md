@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Software and Data Engineer from Auburn, WA.
+  Data && Software Engineer from Auburn, WA.
 </p>
 
 
