@@ -30,7 +30,7 @@
 
 
 <p align='center'>
-  <img src="sm.gif" alt="" width="100%"/>
+  <img src="sm.gif" alt="" width="20%"/>
   
   <a href="#"><img src="https://badges.pufler.dev/visits/stevexenios/stevexenios"></a> 
   <strong> Drink coffee and keep coding!</strong> 
