@@ -31,7 +31,12 @@
 
 <p align='center'>
   <img src="sm.gif" alt="" width="350"/>
-  
+</p>
+
+<p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/stevexenios/stevexenios"></a> 
+</p>
+
+<p align='center'>
   <strong> Drink coffee and keep coding!</strong> 
 </p>
