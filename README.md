@@ -28,5 +28,5 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/stevexenios/stevexenios"></a> Kindred spirit, drink coffee and keep coding!
+  <a href="#"><img src="https://badges.pufler.dev/visits/stevexenios/stevexenios"></a> <strong> Drink coffee and keep coding!</strong> 
 </p>
