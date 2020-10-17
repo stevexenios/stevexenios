@@ -26,3 +26,7 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=stevexenios&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/stevexenios/stevexenios"></a> Kindred spirit, drink coffee and keep coding!
+</p>
