@@ -42,9 +42,4 @@
 </p>
 
 # Table of Contents (Recent Projects)
-* [IoT Dapse 1](#iot-dapse-1)
-
-
-## IoT Dapse 1
-### [Repo](https://github.com/stevexenios/INSIGHT_DAPSE)
-### ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/INSIGHT_DAPSE?color=blue&style=for-the-badge)
+**1. [IoT Dapse 1]**(https://github.com/stevexenios/INSIGHT_DAPSE) ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/INSIGHT_DAPSE?color=blue&style=for-the-badge)
