@@ -42,5 +42,9 @@
 </p>
 
 # Table of Contents (Recent Projects)
-1. [IoT Dapse 1](https://github.com/stevexenios/INSIGHT_DAPSE) 
+* [IoT Dapse 1](https://github.com/stevexenios/INSIGHT_DAPSE) 
           <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/INSIGHT_DAPSE?color=blue&style=for-the-badge)</p>
+
+* [ML Challenge: Employee Attrition Rate](https://github.com/stevexenios/HE_CHALLENGES) 
+          <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/HE_CHALLENGES?color=blue&style=for-the-badge)</p>
+
