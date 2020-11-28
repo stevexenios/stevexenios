@@ -41,7 +41,7 @@
   <strong> Drink coffee and keep coding!</strong> 
 </p>
 
-#Table of Contents (Recent Projects)
+# Table of Contents (Recent Projects)
 * [IoT Dapse 1](#iot-dapse-1)
 
 
