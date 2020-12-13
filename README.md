@@ -47,4 +47,7 @@
 
 * [ML Challenge: Employee Attrition Rate](https://github.com/stevexenios/HE_CHALLENGES) 
           <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/HE_CHALLENGES?color=blue&style=for-the-badge)</p>
+          
+* [Markdowns](https://github.com/stevexenios/MARKDOWNS) 
+          <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MARKDOWNS?color=blue&style=for-the-badge)</p>
 
