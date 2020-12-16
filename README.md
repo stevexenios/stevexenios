@@ -44,7 +44,7 @@
 # Table of Contents (Recent Projects)
 
 * [RDM](https://github.com/stevexenios/RDM) 
-          <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/RDM?color=yellow&style=for-the-badge)</p>
+          <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/RDM?color=green&style=for-the-badge)</p>
 
 * [Markdowns](https://github.com/stevexenios/MARKDOWNS) 
           <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MARKDOWNS?color=blue&style=for-the-badge)</p>
