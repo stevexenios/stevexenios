@@ -42,7 +42,7 @@
 </p>
 
 # Table of Contents (Recent Projects)
-https://github.com/stevexenios/RDM
+
 * [RDM](https://github.com/stevexenios/RDM) 
           <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/RDM?color=yellow&style=for-the-badge)</p>
 
