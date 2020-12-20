@@ -34,7 +34,10 @@
 </p>
 
 <p align='center'>
-  <strong> Drink coffee and keep coding!</strong> 
+  <strong> Drink coffee and keep coding!</strong>
+  
+<p>
+
 </p>
 
 # Table of Contents (Recent Projects)
