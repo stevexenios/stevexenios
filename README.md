@@ -60,28 +60,23 @@
 ## Github Pages
 
 * [Mwangi Cars](https://stevexenios.github.io/MWANGICARS/)
-  ```
   <br/>
-  ```![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MWANGICARS?color=green&style=for-the-badge)
-  ```
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MWANGICARS?color=green&style=for-the-badge)
+  
 
 
 * [React Project 6](https://stevexenios.github.io/project_6_videos/)
-  ```
   <br/>
-  ```![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/project_6_videos?color=green&style=for-the-badge)
-  ```
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/project_6_videos?color=green&style=for-the-badge)
+  
 
 
 * [Simutopia](https://stevexenios.github.io/Simutopia/)
-  ```
   <br/>
-  ```![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/Simutopia?color=green&style=for-the-badge)
-  ```
-
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/Simutopia?color=green&style=for-the-badge)
+  
 
 * [2048](https://stevexenios.github.io/2048/)
-  ```
   <br/>
-  ```![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/2048?color=green&style=for-the-badge)
-  ```
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/2048?color=green&style=for-the-badge)
+  
