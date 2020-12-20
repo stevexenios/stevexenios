@@ -40,31 +40,31 @@
 # Table of Contents (Recent Projects)
 
 * [RDM](https://github.com/stevexenios/RDM)
-  <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/RDM?color=green&style=for-the-badge)</p>
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/RDM?color=green&style=for-the-badge)
 * [Markdowns](https://github.com/stevexenios/MARKDOWNS)
-  <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MARKDOWNS?color=blue&style=for-the-badge)</p>
+
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MARKDOWNS?color=blue&style=for-the-badge)
 * [IoT Dapse 1](https://github.com/stevexenios/INSIGHT_DAPSE)
-  <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/INSIGHT_DAPSE?color=green&style=for-the-badge)</p>
+
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/INSIGHT_DAPSE?color=green&style=for-the-badge)
 * [ML Challenge: Employee Attrition Rate](https://github.com/stevexenios/HE_CHALLENGES)
-  <p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/HE_CHALLENGES?color=green&style=for-the-badge)</p>
+
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/HE_CHALLENGES?color=green&style=for-the-badge)
 
 ## Github Pages
 
 * [Mwangi Cars](https://stevexenios.github.io/MWANGICARS/)
 
-<p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MWANGICARS?color=green&style=for-the-badge)</p>
-
+![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MWANGICARS?color=green&style=for-the-badge)
 
 * [React Project 6](https://stevexenios.github.io/project_6_videos/)
 
-<p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/project_6_videos?color=green&style=for-the-badge)</p>
-
+![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/project_6_videos?color=green&style=for-the-badge)
 
 * [Simutopia](https://stevexenios.github.io/Simutopia/)
 
-<p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/Simutopia?color=green&style=for-the-badge)</p>
-
+![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/Simutopia?color=green&style=for-the-badge)
 
 * [2048](https://stevexenios.github.io/2048/)
 
-<p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/2048?color=green&style=for-the-badge)</p>
+![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/2048?color=green&style=for-the-badge)
