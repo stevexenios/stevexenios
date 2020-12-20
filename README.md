@@ -43,6 +43,7 @@
 # Table of Contents (Recent Projects)
 
 * [RDM](https://github.com/stevexenios/RDM)
+
   ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/RDM?color=green&style=for-the-badge)
 * [Markdowns](https://github.com/stevexenios/MARKDOWNS)
 
@@ -56,18 +57,7 @@
 
 ## Github Pages
 
-* [Mwangi Cars](https://stevexenios.github.io/MWANGICARS/)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MWANGICARS?color=green&style=for-the-badge)
-
-* [React Project 6](https://stevexenios.github.io/project_6_videos/)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/project_6_videos?color=green&style=for-the-badge)
-
-* [Simutopia](https://stevexenios.github.io/Simutopia/)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/Simutopia?color=green&style=for-the-badge)
-
-* [2048](https://stevexenios.github.io/2048/)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/2048?color=green&style=for-the-badge)
+* [Mwangi Cars](https://stevexenios.github.io/MWANGICARS/)<p>![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MWANGICARS?color=green&style=for-the-badge)</p>
+* [React Project 6](https://stevexenios.github.io/project_6_videos/)![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/project_6_videos?color=green&style=for-the-badge)
+* [Simutopia](https://stevexenios.github.io/Simutopia/)![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/Simutopia?color=green&style=for-the-badge)
+* [2048](https://stevexenios.github.io/2048/)![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/2048?color=green&style=for-the-badge)
