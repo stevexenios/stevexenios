@@ -34,7 +34,7 @@
 </p>
 
 <p align='center'>
-  <strong> Drink coffee and keep coding!</strong>
+  <strong> :sleeping: :coffee: :man_technologist: :repeat:</strong>
   
 <p>
 
