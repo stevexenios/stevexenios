@@ -44,7 +44,7 @@
 
 * [snoop-cli](https://github.com/stevexenios/snoop-cli)
 
-  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/snoop-cli?color=gray&style=for-the-badge)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/snoop-cli?color=green&style=for-the-badge)
 * [RDM](https://github.com/stevexenios/RDM)
 
   ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/RDM?color=green&style=for-the-badge)
