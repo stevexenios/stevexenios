@@ -1,9 +1,17 @@
 <h6>
 <p>
+"Mastery! Master your stack."
+_ stevexenios
+  
+“We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win.”
+― John F. Kennedy
+
+"What's the most resilient parasite? An idea. A single idea from the human mind can build cities. An idea can transform the world and rewrite all the rules."	
+― Cobb
+
 “Nothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan Press On! has solved and always will solve the problems of the human race.”
-
-― Calvin Coolidge </p>
-
+― Calvin Coolidge 
+</p>
 </h6>
 
 <h1 align='center'>
