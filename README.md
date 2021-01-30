@@ -15,7 +15,7 @@ _ stevexenios
 </h6>
 
 <h1 align='center'>
-  Hi there 👋 I'm Steve 👨‍💻
+  I'm Steve 👋👨‍💻
 </h1>
 
 <p align='center'>
