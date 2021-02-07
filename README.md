@@ -57,6 +57,7 @@
 </p>
 
 # Table of Contents (Recent Projects)
+* [azure](https://github.com/stevexenios/azure)
 
 * [snoop-cli](https://github.com/stevexenios/snoop-cli)
 
