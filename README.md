@@ -59,6 +59,7 @@
 # Table of Contents (Recent Projects)
 * [azure](https://github.com/stevexenios/azure)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/azure?color=green&style=for-the-badge)
 * [snoop-cli](https://github.com/stevexenios/snoop-cli)
 
   ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/snoop-cli?color=green&style=for-the-badge)
