@@ -1,8 +1,5 @@
 <h6>
-<p>
-"Mastery! Master your stack."
-― _ios
-  
+<p>  
 “We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win.”
 ― John F. Kennedy
 
@@ -59,7 +56,7 @@
 # Table of Contents (Recent Projects)
 * [azure](https://github.com/stevexenios/azure)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/azure?color=green&style=for-the-badge)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/azure?color=green&style=for-the-badge)
 * [snoop-cli](https://github.com/stevexenios/snoop-cli)
 
   ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/snoop-cli?color=green&style=for-the-badge)
