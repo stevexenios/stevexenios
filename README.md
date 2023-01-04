@@ -54,6 +54,10 @@
 </p>
 
 # Table of Contents (Recent Projects)
+* [Employee polls](https://github.com/stevexenios/employee_polls)
+
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/employee_polls?color=green&style=for-the-badge)
+  
 * [azure](https://github.com/stevexenios/azure)
 
   ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/azure?color=green&style=for-the-badge)
