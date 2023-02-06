@@ -53,6 +53,27 @@
 
 </p>
 
+## Github Pages
+* [Employee Polls](https://stevexenios.github.io/employee_polls/)
+  <br/>
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/employee_polls?color=green&style=for-the-badge)
+
+* [Mwangi Cars](https://stevexenios.github.io/MWANGICARS/)
+  <br/>
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MWANGICARS?color=green&style=for-the-badge)
+
+* [React Project 6](https://stevexenios.github.io/project_6_videos/)
+  <br/>
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/project_6_videos?color=green&style=for-the-badge)
+  
+* [Simutopia](https://stevexenios.github.io/Simutopia/)
+  <br/>
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/Simutopia?color=green&style=for-the-badge)
+
+* [2048](https://stevexenios.github.io/2048/)
+  <br/>
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/2048?color=green&style=for-the-badge)
+  
 # Table of Contents (Recent Projects)
 * [Employee polls](https://github.com/stevexenios/employee_polls)
 
@@ -76,29 +97,3 @@
 * [ML Challenge: Employee Attrition Rate](https://github.com/stevexenios/HE_CHALLENGES)
 
   ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/HE_CHALLENGES?color=green&style=for-the-badge)
-
-
-
-## Github Pages
-
-* [Mwangi Cars](https://stevexenios.github.io/MWANGICARS/)
-  <br/>
-  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/MWANGICARS?color=green&style=for-the-badge)
-  
-
-
-* [React Project 6](https://stevexenios.github.io/project_6_videos/)
-  <br/>
-  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/project_6_videos?color=green&style=for-the-badge)
-  
-
-
-* [Simutopia](https://stevexenios.github.io/Simutopia/)
-  <br/>
-  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/Simutopia?color=green&style=for-the-badge)
-  
-
-* [2048](https://stevexenios.github.io/2048/)
-  <br/>
-  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/2048?color=green&style=for-the-badge)
-  
