@@ -53,7 +53,10 @@
 
 </p>
 
-## Github Pages
+---
+
+# Github Pages
+
 * [Employee Polls](https://stevexenios.github.io/employee_polls/)
   <br/>
   ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/employee_polls?color=green&style=for-the-badge)
@@ -73,8 +76,15 @@
 * [2048](https://stevexenios.github.io/2048/)
   <br/>
   ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/2048?color=green&style=for-the-badge)
+
+---
   
 # Table of Contents (Recent Projects)
+
+* [Robot Arm Dispatcher](https://github.com/stevexenios/robot_arm_dispatcher)
+  
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/robot_arm_dispatcher?color=green&style=for-the-badge)
+
 * [Employee polls](https://github.com/stevexenios/employee_polls)
 
   ![GitHub last commit](https://img.shields.io/github/last-commit/stevexenios/employee_polls?color=green&style=for-the-badge)
