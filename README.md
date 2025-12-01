@@ -11,27 +11,20 @@
 </p>
 </h6>
 
-<h1 align='center'>
-  I'm Steve 👋👨‍💻
-</h1>
+
 
 <p align='center'>
-  Data && Software Engineer from Auburn, WA.
+
+<p align="center">
+  <a href="https://stevemwangi.com">
+    🌐 Visit My Website
+  </a>
 </p>
-
-<p align='center'>
 
 <a href="https://www.linkedin.com/in/stevegmwangi">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
 
-<a href="https://instagram.com/steve.xenios">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />      
-  </a>  
-
-<a href="https://www.facebook.com/stevexenios/">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>  
 </p>
 
 <p align='center'>
