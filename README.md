@@ -15,11 +15,9 @@
 
 <p align='center'>
 
-<p align="center">
-  <a href="https://stevemwangi.com">
-    🌐 Visit My Website
-  </a>
-</p>
+<a href="https://stevemwangi.com">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 <a href="https://www.linkedin.com/in/stevegmwangi">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,17 +25,17 @@
 
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=stevexenios&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+</p> -->
 
 <p align='center'>
   <img src="sm.gif" alt="" width="350"/>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/stevexenios/stevexenios"></a> 
-</p>
+</p> -->
 
 <p align='center'>
   <strong> :sleeping: :coffee: :man_technologist: :repeat:</strong>
